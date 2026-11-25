@@ -1,0 +1,15 @@
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\bin\Debug\net10.0\Buoi01_DeQuy.exe
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\bin\Debug\net10.0\Buoi01_DeQuy.deps.json
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\bin\Debug\net10.0\Buoi01_DeQuy.runtimeconfig.json
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\bin\Debug\net10.0\Buoi01_DeQuy.dll
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\bin\Debug\net10.0\Buoi01_DeQuy.pdb
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.AssemblyInfoInputs.cache
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.AssemblyInfo.cs
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.csproj.CoreCompileInputs.cache
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.sourcelink.json
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.dll
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\obj\Debug\net10.0\refint\Buoi01_DeQuy.dll
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.pdb
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.genruntimeconfig.cache
+C:\Users\duyla\12425077_DSA\Buoi01_DeQuy\obj\Debug\net10.0\ref\Buoi01_DeQuy.dll

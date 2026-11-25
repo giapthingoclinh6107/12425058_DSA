@@ -2,7 +2,7 @@
 
 
 
-Họ tên: Đặng Thị Nhật Linh · MSV: 12425077
+Họ tên: Giáp Thị Ngọc Linh · MSV: 12425058
 
 
 
